@@ -1,0 +1,26 @@
+http://localhost:8040/dashboard/phpinfo.php
+Loaded Configuration File	C:\xampp\php\php.ini
+upload_max_filesize	40M	40M
+
+_SERVER['DOCUMENT_ROOT']	C:/xampp/htdocs
+
+https://www.apachefriends.org/pl/index.html
+https://gitforwindows.org/
+
+git clone repo.git
+git status
+git add *
+git status
+git commit
+
+i, <insert>, <esc>, :wq
+
+git commit -m "modified file"
+git push origin main
+
+git config --global user.name "username"
+git config --global user.email "johndoe@example.com"
+git push origin main
+
+
+http://localhost:8040/git/studia/cdv/cdv_ti_gr4/1_podstawy.php
